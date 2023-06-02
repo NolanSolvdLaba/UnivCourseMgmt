@@ -1,0 +1,2 @@
+ALTER TABLE course
+MODIFY COLUMN instructor_id INT NOT NULL DEFAULT 0;

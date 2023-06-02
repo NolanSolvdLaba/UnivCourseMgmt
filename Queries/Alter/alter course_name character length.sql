@@ -1,0 +1,2 @@
+ALTER TABLE course
+MODIFY COLUMN course_name VARCHAR(100);
